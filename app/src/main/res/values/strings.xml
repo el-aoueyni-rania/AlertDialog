@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlertDialog</string>
+    <string name="messagewait">Downloading Music </string>
+
+</resources>
